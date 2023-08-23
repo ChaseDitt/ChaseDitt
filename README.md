@@ -16,7 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently learning how to be a better programmer at the University of Iowa. I am pursuing a degree in Computer Science and Engineering with a focus in Software Engineering.
+🔬 I’m currently learning how to be a better programmer at the University of Iowa. I am pursuing a degree in Computer Science and Engineering with a focus in Software Engineering. I am currently in my fourth year and expect to graduate in May 2024.
+
+🌱Outside of the coding world I love to bide my time with Music. I am currently in the Hawkeye Marching Band where I get to participate in many performances and fine-tune my musical expertise.
+
 
 
 
