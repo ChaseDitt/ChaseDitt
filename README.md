@@ -20,6 +20,21 @@ Here are some ideas to get you started:
 
 
 
+### 🔭 Skills
+
+  ## ⚡ Languages
+      -Java
+      -C++
+      -Python
+      -Ruby
+      -Matlab
+      -Haskel
+      
+
+
+
+
+
 
 📫 How to reach me: Email - chassedittmer@gmail.com | [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/chase-dittmer/)
 
