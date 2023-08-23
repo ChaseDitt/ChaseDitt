@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 
-📫 How to reach me: Email - chassedittmer@gmail.com  ![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=white)
+📫 How to reach me: Email - chassedittmer@gmail.com  ![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=white)(https://www.linkedin.com/chase-dittmer)
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/ChaseDitt)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/chase-dittmer)
 
