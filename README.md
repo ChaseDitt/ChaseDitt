@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 
 
-### 🔭 Skills
 
-  ## ⚡ Languages
+
+### ⚡ Languages
       -Java
       -C++
       -Python
