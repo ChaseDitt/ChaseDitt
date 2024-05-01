@@ -29,6 +29,9 @@ Here are some ideas to get you started:
       -Java
       -C++
       -Python
+      -HTML
+      -JavaScript
+      -CSS
       -Ruby
       -Matlab
       -Haskel
