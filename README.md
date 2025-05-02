@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 -->
 🔬 I’m currently employeed at ClientCircle in Des Moines Iowa as a Reliability Engineer. 
 
-🌱Outside of the coding world I love to bide my time with music. I am currently in the Hawkeye Marching Band where I get to participate in many performances and fine-tune my musical expertise.
 
 
 
